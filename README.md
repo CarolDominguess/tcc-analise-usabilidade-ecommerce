@@ -1,27 +1,40 @@
-# Análise de Usabilidade em E-commerces com Heurísticas de Nielsen
+Análise de Usabilidade em E-commerces
 
-Este repositório contém meu Trabalho de Conclusão de Curso (TCC), desenvolvido no curso de Sistemas de Informação – UNIPAR.
+📌 Este projeto corresponde ao meu Trabalho de Conclusão de Curso (TCC), desenvolvido com foco na área de Qualidade de Software (QA) e Experiência do Usuário (UX).
 
-## 🎯 Objetivo
-Analisar como as heurísticas de usabilidade de Jakob Nielsen impactam a experiência do usuário (UX) em plataformas de e-commerce.
+💡 A proposta do trabalho foi analisar como as Heurísticas de Usabilidade de Jakob Nielsen impactam a experiência do usuário em plataformas de e-commerce amplamente utilizadas.
 
-## 🧪 Metodologia
-- Avaliação baseada nas 10 heurísticas de Nielsen
-- Estudo de caso comparativo:
-  - Mercado Livre
-  - eBay
-- Coleta de dados com usuários reais por meio de formulário online
+🎯 Objetivo
 
-## 🔍 Atividades relacionadas à área de QA
-- Análise de usabilidade
-- Identificação de problemas de UX
-- Avaliação comparativa entre sistemas
-- Análise de feedback de usuários
-- Pensamento crítico voltado à melhoria contínua
+Avaliar e comparar a usabilidade de dois grandes e-commerces — Mercado Livre e eBay — identificando pontos fortes, falhas de interface e oportunidades de melhoria sob a ótica de QA e UX.
 
-## 📄 Documento
-O TCC completo está disponível neste repositório em formato PDF.
+🧪 Metodologia
 
-## 👩‍💻 Autora
-Ana Carolina Domingues de Souza  
-Paranavaí – PR  
+📌 Aplicação das 10 Heurísticas de Nielsen
+📌 Análise comparativa entre dois sistemas reais
+📌 Identificação de problemas de usabilidade
+📌 Coleta de feedback de usuários por meio de formulário online
+📌 Análise crítica dos resultados obtidos
+
+📚 Documentação
+
+📄 TCC completo em PDF disponível neste repositório
+
+🚀 Contribuições para a área de QA
+
+📌 Avaliação de sistemas baseada em critérios de qualidade
+📌 Análise de usabilidade e experiência do usuário
+📌 Identificação de inconsistências de interface
+📌 Apoio à melhoria contínua de produtos digitais
+📌 Pensamento analítico voltado à qualidade do software
+
+✔ Este projeto demonstra habilidades essenciais para atuação como QA Júnior / Estagiária, especialmente em testes manuais, testes exploratórios e análise de UX.
+
+✨ Considerações finais
+
+Este trabalho reforça a importância da usabilidade como critério de qualidade, mostrando como a aplicação (ou ausência) das heurísticas de Nielsen influencia diretamente a satisfação e a eficiência do usuário final.
+
+👩‍💻 Autora
+
+Ana Carolina Domingues de Souza
+Paranavaí – PR
